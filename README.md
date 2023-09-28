@@ -20,7 +20,7 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 - 🎓**Bachiller**🎓, Instituto Tecnologico Fabio Amable Mota(ITFAM) (2023)
 
 ## Contacto
- <a href="https://www.linkedin.com/in/braily-roman-seberino-30b461264/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="perfil | linkedin" width="40" /></a> | <a href="https://www.instagram.com/braily_rs35/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="perfil | linkedin" width="40"/></a> 
+ <a href="https://www.linkedin.com/in/braily-roman-seberino-30b461264/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="perfil | linkedin" width="40" /></a> | <a href="https://www.instagram.com/braily_rs35/" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="perfil | linkedin" width="40"/></a> <a href="https://twitter.com/DextronHD03" target="blank"> <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="perfil | linkedin" width="40"/></a> 
 
 
 ## Intereses y Aficiones
