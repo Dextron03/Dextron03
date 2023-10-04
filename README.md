@@ -10,7 +10,7 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 
 ## Proyectos Destacados
-- [CRUD_café](https://github.com/Dextron03/CRUD_cafe): ⚙️En proceso⚙️.
+- [TerminalCRUD](https://github.com/Dextron03/CRUD_cafe): ⚙️En proceso⚙️.
 
 - [Generador de Contraseñas Aleatorias](https://github.com/Dextron03/Random_Password_Generator): Este es un programa de Python que te permite generar contraseñas aleatorias con opciones de configuración. Puedes determinar la longitud de la contraseña, incluir o eliminar letras mayúsculas, números y símbolos. (🛠️Puede mejorar🛠️)
 
