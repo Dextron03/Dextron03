@@ -10,11 +10,10 @@ Soy un apasionado desarrollador de software con experiencia en desarrollo web, a
 
 
 ## Proyectos Destacados
-- [TerminalCRUD](https://github.com/Dextron03/CRUD_cafe): ⚙️En proceso⚙️.
-
 - [Generador de Contraseñas Aleatorias](https://github.com/Dextron03/Random_Password_Generator): Este es un programa de Python que te permite generar contraseñas aleatorias con opciones de configuración. Puedes determinar la longitud de la contraseña, incluir o eliminar letras mayúsculas, números y símbolos. (🛠️Puede mejorar🛠️)
 
-- [Lenguaje Hacker (Leet Speak)](https://github.com/Dextron03/Reto_Lenguaje_Hacker): Este es un programa simple en Python que permite transformar un texto ingresado por el usuario en "lenguaje hacker", también conocido como "leet" o "1337". El lenguaje hacker se caracteriza por reemplazar caracteres alfanuméricos con otros símbolos y números.
+- [Gestor Personal]([https://github.com/Dextron03/Reto_Lenguaje_Hacker](https://github.com/Dextron03/gestor-personal-django)): En esta práctica, desarrollaremos una herramienta de gestión personal que constará de dos funciones principales: la gestión de contactos y la organización de tareas.
+
 
 ## Educación
 - 🎓**Bachiller**🎓, Instituto Tecnologico Fabio Amable Mota(ITFAM) (2023)
