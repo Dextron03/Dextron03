@@ -1,4 +1,4 @@
-![image](https://github.com/Dextron03/Dextron03/assets/78430276/d4061a2c-ee4a-4063-9516-a530e89c52f8)# Hola, soy Braily👋🤖
+# Hola, soy Braily👋🤖
 
 <img src="https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174335558?e=1714608000&v=beta&t=OUL2VA7BLNnOD1suNBZYsHG9luTO9Z-_13zNXf3bkxg" alt="banner" width="1500"/>
 
