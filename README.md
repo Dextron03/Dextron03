@@ -6,7 +6,7 @@
 Soy un Desarrollador de Software Backend con 2 años de experiencia, apasionado por la tecnología y la forma en que es posible aportar valor con ella. Mi enfoque principal es el desarrollo de soluciones escalables utilizando Python y Django, también tengo experiencia con bases de datos SQL. Estoy dispuesto a explorar otras tecnologías, aprender y adoptarlas según sea necesario.
 
 ## Tecnologías y Habilidades
-[![My Skills](https://skillicons.dev/icons?i=py,sqlite,php,mysql,md,linux,js,html,github,git,django,css,cs,bootstrap,&perline=5)] 
+![My Skills](https://skillicons.dev/icons?i=py,sqlite,php,mysql,md,linux,js,html,github,git,django,css,cs,bootstrap,&perline=5)
 
 
 ## Proyectos Destacados
