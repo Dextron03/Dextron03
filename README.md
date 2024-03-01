@@ -1,6 +1,6 @@
 # Hola, soy Braily👋🤖
 
-<img src="https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174332042?e=1701907200&v=beta&t=UX64pF5WOcaZrPx4bm38z4HoKxJgHCewpDXy8NUw85Y" alt="banner" width="1500"/>
+<img src="[https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174332042?e=1701907200&v=beta&t=UX64pF5WOcaZrPx4bm38z4HoKxJgHCewpDXy8NUw85Y](https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174335558?e=1714608000&v=beta&t=OUL2VA7BLNnOD1suNBZYsHG9luTO9Z-_13zNXf3bkxg)" alt="banner" width="1500"/>
 
 ## Acerca de mí
 Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones desktop y bases de datos. Me gusta aprender nuevas tecnologías y resolver desafíos. Actualmente mi fuerte es el  en el desarrollo back-end usando el lenguaje python y proximamente conjunto el framework Django.
