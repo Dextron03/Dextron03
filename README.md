@@ -3,10 +3,10 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174335558?e=1714608000&v=beta&t=OUL2VA7BLNnOD1suNBZYsHG9luTO9Z-_13zNXf3bkxg" alt="banner" width="1500"/>
 
 ## Acerca de mí
-Soy un apasionado desarrollador de software con experiencia en desarrollo web, aplicaciones desktop y bases de datos. Me gusta aprender nuevas tecnologías y resolver desafíos. Actualmente mi fuerte es el  en el desarrollo back-end usando el lenguaje python y proximamente conjunto el framework Django.
+Soy un Desarrollador de Software Backend con 2 años de experiencia, apasionado por la tecnología y la forma en que es posible aportar valor con ella. Mi enfoque principal es el desarrollo de soluciones escalables utilizando Python y Django, también tengo experiencia con bases de datos SQL. Estoy dispuesto a explorar otras tecnologías, aprender y adoptarlas según sea necesario.
 
 ## Tecnologías y Habilidades
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40"/> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="60"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite3" width="40"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="70"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt=".net" width="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="35"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="dj" width="35"/> 
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,php,mysql,md,linux,js,html,github,git,django,css,cs,bootstrap,&perline=3)] 
 
 
 ## Proyectos Destacados
