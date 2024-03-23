@@ -10,7 +10,7 @@ Soy un Desarrollador de Software Backend con 2 años de experiencia, apasionado 
 
 
 ## Proyectos Destacados
-- [Generador de Contraseñas Aleatorias](https://github.com/Dextron03/Random_Password_Generator): Este es un programa de Python que te permite generar contraseñas aleatorias con opciones de configuración. Puedes determinar la longitud de la contraseña, incluir o eliminar letras mayúsculas, números y símbolos. (🛠️Puede mejorar🛠️)
+- [Social Network](https://github.com/Dextron03/Red-Social-Django.git): ¡Bienvenidos al proyecto Social NetWork con Django! En este proyecto, he desarrollado una plataforma de redes sociales robusta y dinámica utilizando el potente framework Django. Nuestra meta principal ha sido crear un espacio interactivo donde los usuarios puedan compartir sus pensamientos, interactuar con sus amigos y mantenerse conectados de manera efectiva.
 
 - [Gestor Personal](https://github.com/Dextron03/gestor-personal-django): En esta práctica, desarrollaremos una herramienta de gestión personal que constará de dos funciones principales: la gestión de contactos y la organización de tareas.
 
