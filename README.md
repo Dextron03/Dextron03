@@ -1,6 +1,6 @@
 # Hola, soy Braily👋🤖
 
-<img src="https://media.licdn.com/dms/image/D4E16AQFDzm4SaSNVpQ/profile-displaybackgroundimage-shrink_350_1400/0/1696174335558?e=1714608000&v=beta&t=OUL2VA7BLNnOD1suNBZYsHG9luTO9Z-_13zNXf3bkxg" alt="banner" width="1500"/>
+<img src="./banner.jfif" alt="banner" width="1500"/>
 
 ## Acerca de mí
 Soy un Desarrollador de Software Backend con 2 años de experiencia, apasionado por la tecnología y la forma en que es posible aportar valor con ella. Mi enfoque principal es el desarrollo de soluciones escalables utilizando Python y Django, también tengo experiencia con bases de datos SQL. Estoy dispuesto a explorar otras tecnologías, aprender y adoptarlas según sea necesario.
